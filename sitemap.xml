@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://www.marcocolombara.net/categories/</loc>
+    <loc>https://www.marcocolombara.net/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.marcocolombara.net/</loc>
+    <loc>https://www.marcocolombara.net/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.marcocolombara.net/tags/</loc>
+    <loc>https://www.marcocolombara.net/tags/</loc>
     <priority>0</priority>
   </url>
   
