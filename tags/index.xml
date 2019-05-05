@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Marco Colombara</title>
-    <link>https://www.marcocolombara.net/tags/</link>
+    <link>https://marcocolombara.net/tags/</link>
     <description>Recent content in Tags on Marco Colombara</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>it-IT</language>
     
-	<atom:link href="https://www.marcocolombara.net/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://marcocolombara.net/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
