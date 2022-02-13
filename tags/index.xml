@@ -5,10 +5,6 @@
     <link>https://marcocolombara.net/tags/</link>
     <description>Recent content in Tags on Marco Colombara</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>it-IT</language>
-    
-	<atom:link href="https://marcocolombara.net/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>it-IT</language><atom:link href="https://marcocolombara.net/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
